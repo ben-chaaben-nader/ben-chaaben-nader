@@ -27,19 +27,20 @@
 ## 💡 Technologies & Tools:
 
 ### **Programming Languages & Technologies:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=dotnet&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/> Java  
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/> Python  
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/> JavaScript  
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/> TypeScript  
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/> Node.js  
+<img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40"/> Go  
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/> C#  
+<img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="VB.NET" width="40"/> VB.NET  
+<img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" width="40"/> ASP.NET  
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/> SQL  
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/> MySQL  
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/> PostgreSQL  
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/> MongoDB  
+
 
 
 ### **Automation:**  
