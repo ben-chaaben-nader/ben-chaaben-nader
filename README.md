@@ -87,6 +87,11 @@
 ![Nader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-chaaben-nader&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical)
 
+
+![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-chaaben-nader&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=ben-chaaben-nader&color=blue)
+
 ---
 
 ## ✨ **Quote:**  
