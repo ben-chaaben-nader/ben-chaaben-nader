@@ -1,5 +1,5 @@
 ![Header](assets/header.png)
-<<<<<<< HEAD
+
 
 # 👋 Hi there, I'm Nader Ben Chabane  
 💡 **QA Engineer | Automation Expert | Tech Trainer**  
