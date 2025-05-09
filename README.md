@@ -27,19 +27,23 @@
 ## 💡 Technologies & Tools:
 
 ### **Programming Languages & Technologies:**  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/> Java  
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/> Python  
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/> JavaScript  
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/> TypeScript  
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/> Node.js  
-<img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40"/> Go  
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/> C#  
-<img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="VB.NET" width="40"/> VB.NET  
-<img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" width="40"/> ASP.NET  
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/> SQL  
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/> MySQL  
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/> PostgreSQL  
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/> MongoDB  
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="VB.NET" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
+</p>
+
 
 
 
