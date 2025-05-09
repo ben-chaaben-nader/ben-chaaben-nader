@@ -74,6 +74,19 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
 
+### **Cloud & DevOps Solutions:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D7?logo=microsoft-azure&logoColor=white)  
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
+
+
 ---
 
 ## 📫 How to reach me:
@@ -84,13 +97,13 @@
 ---
 
 ## 🌟 GitHub Stats:
-![Nader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-chaaben-nader&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical)
+
+![Nader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-chaaben-nader&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=ben-chaaben-nader&color=blue)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ben-chaaben-nader&theme=radical)
 
 
-![Nader's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-chaaben-nader&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=ben-chaaben-nader&color=blue)
 
 ---
 
