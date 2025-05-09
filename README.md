@@ -61,6 +61,11 @@
 ![Thomson Reuters](https://img.shields.io/badge/-Thomson%20Reuters-FF8000?logo=thomsonreuters&logoColor=white)  
 ![MetaTrader](https://img.shields.io/badge/-MetaTrader-007FFF?logo=metatrader&logoColor=white)  
 
+### **ERP & Business Solutions:**  
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white)  
+![Microsoft Dynamics 365](https://img.shields.io/badge/-Microsoft%20Dynamics%20365-0078D7?logo=microsoft-dynamics-365&logoColor=white)  
+![Oracle ERP](https://img.shields.io/badge/-Oracle%20ERP-F80000?logo=oracle&logoColor=white)
+
 ### **Artificial Intelligence & Machine Learning:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
