@@ -43,61 +43,93 @@
 </p>
 
 
-
-
 ### **Automation:**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
-![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000?logo=robot-framework&logoColor=white)  
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)  
-![Playwright](https://img.shields.io/badge/-Playwright-2C2E3B?logo=playwright&logoColor=white)  
-![Appium](https://img.shields.io/badge/-Appium-00ADC1?logo=appium&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache-jmeter&logoColor=white)  
-![TestNG](https://img.shields.io/badge/-TestNG-FF7300?logo=testng&logoColor=white)  
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" alt="Robot Framework" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/cypress.png" alt="Cypress" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/appium.png" alt="Appium" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/apache-jmeter.png" alt="JMeter" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/testng.png" alt="TestNG" width="40"/>
+</p>
+
+---
 
 ### **Game & Map Testing:**  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white)  
-![TomTom Maps](https://img.shields.io/badge/-TomTom%20Maps-FF0000?logo=tomtom&logoColor=white)  
-![Mapbox](https://img.shields.io/badge/-Mapbox-4264FB?logo=mapbox&logoColor=white)  
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/tomtom.png" alt="TomTom Maps" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/mapbox.png" alt="Mapbox" width="40"/>
+</p>
+
+---
 
 ### **Blockchain & Crypto:**  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white)  
-![Metamask](https://img.shields.io/badge/-Metamask-F6851B?logo=metamask&logoColor=white)  
+
+<p align="left">
+    <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/ethereum.png" alt="Ethereum" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/web3.png" alt="Web3.js" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/metamask.png" alt="Metamask" width="40"/>
+</p>
+
+---
 
 ### **Finance & Banking:**  
-![SWIFT](https://img.shields.io/badge/-SWIFT-0033A0?logo=swift&logoColor=white)  
-![FIX Protocol](https://img.shields.io/badge/-FIX%20Protocol-0071C5?logo=fixprotocol&logoColor=white)  
-![Bloomberg](https://img.shields.io/badge/-Bloomberg-2C2C2C?logo=bloomberg&logoColor=white)  
-![Thomson Reuters](https://img.shields.io/badge/-Thomson%20Reuters-FF8000?logo=thomsonreuters&logoColor=white)  
-![MetaTrader](https://img.shields.io/badge/-MetaTrader-007FFF?logo=metatrader&logoColor=white)  
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/swift.png" alt="SWIFT" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/finance.png" alt="FIX Protocol" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/bloomberg.png" alt="Bloomberg" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/reuters.png" alt="Thomson Reuters" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/forex.png" alt="MetaTrader" width="40"/>
+</p>
+
+---
 
 ### **ERP & Business Solutions:**  
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white)  
-![Microsoft Dynamics 365](https://img.shields.io/badge/-Microsoft%20Dynamics%20365-0078D7?logo=microsoft-dynamics-365&logoColor=white)  
-![Oracle ERP](https://img.shields.io/badge/-Oracle%20ERP-F80000?logo=oracle&logoColor=white)
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-dynamics-365.png" alt="Microsoft Dynamics 365" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle ERP" width="40"/>
+</p>
+
+---
 
 ### **Artificial Intelligence & Machine Learning:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
+</p>
+
+---
 
 ### **Cloud & DevOps Solutions:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D7?logo=microsoft-azure&logoColor=white)  
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)  
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Microsoft Azure" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40"/>
+</p>
+
 
 
 ---
