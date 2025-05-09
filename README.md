@@ -1,10 +1,10 @@
 ![Header](assets/header.png)
 
 
-# 👋 Hi there, I'm Nader Ben Chaaben welcome to my profile.  
+# 👋 Hi there, I'm Nader Ben Chaaben welcome to my profile.
 💡 **QA Engineer | Automation Expert | Tech Trainer**  
 🌎 **Based in Lodz, Poland | Originally from Tunisia**  
-🔎 **Passionate about Test Automation, CI/CD, and Scalable Web Solutions**  
+🔎 **Passionate about Test Automation, CI/CD, AI Solutions, and Scalable Web Applications**  
 
 ---
 
@@ -25,20 +25,49 @@
 ---
 
 ## 💡 Technologies & Tools:
-- **Automation:**  
-  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
-  ![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000?logo=robot-framework&logoColor=white)  
-  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)  
 
-- **CI/CD:**  
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+### **Programming Languages:**  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+### **Automation:**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000?logo=robot-framework&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)  
+![Playwright](https://img.shields.io/badge/-Playwright-2C2E3B?logo=playwright&logoColor=white)  
+![Appium](https://img.shields.io/badge/-Appium-00ADC1?logo=appium&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache-jmeter&logoColor=white)  
+![TestNG](https://img.shields.io/badge/-TestNG-FF7300?logo=testng&logoColor=white)  
+
+### **Game & Map Testing:**  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white)  
+![TomTom Maps](https://img.shields.io/badge/-TomTom%20Maps-FF0000?logo=tomtom&logoColor=white)  
+![Mapbox](https://img.shields.io/badge/-Mapbox-4264FB?logo=mapbox&logoColor=white)  
+
+### **Blockchain & Crypto:**  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)  
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white)  
+![Metamask](https://img.shields.io/badge/-Metamask-F6851B?logo=metamask&logoColor=white)  
+
+### **Finance & Banking:**  
+![SWIFT](https://img.shields.io/badge/-SWIFT-0033A0?logo=swift&logoColor=white)  
+![FIX Protocol](https://img.shields.io/badge/-FIX%20Protocol-0071C5?logo=fixprotocol&logoColor=white)  
+![Bloomberg](https://img.shields.io/badge/-Bloomberg-2C2C2C?logo=bloomberg&logoColor=white)  
+![Thomson Reuters](https://img.shields.io/badge/-Thomson%20Reuters-FF8000?logo=thomsonreuters&logoColor=white)  
+![MetaTrader](https://img.shields.io/badge/-MetaTrader-007FFF?logo=metatrader&logoColor=white)  
+
+### **Artificial Intelligence & Machine Learning:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
 
 ---
 
