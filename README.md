@@ -1,4 +1,5 @@
 ![Header](assets/header.png)
+<<<<<<< HEAD
 
 # 👋 Hi there, I'm Nader Ben Chabane  
 💡 **QA Engineer | Automation Expert | Tech Trainer**  
@@ -56,3 +57,5 @@
 
 ## ✨ **Quote:**  
 *"Quality is never an accident; it is always the result of intelligent effort."* – John Ruskin  
+=======
+>>>>>>> 8eadeb447c7941abc1703e2bd1b0d824bbc1e542
