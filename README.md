@@ -1,7 +1,7 @@
 ![Header](assets/header.png)
 
 
-# 👋 Hi there, I'm Nader Ben Chabane  
+# 👋 Hi there, I'm Nader Ben Chaaben welcome to my profile.  
 💡 **QA Engineer | Automation Expert | Tech Trainer**  
 🌎 **Based in Lodz, Poland | Originally from Tunisia**  
 🔎 **Passionate about Test Automation, CI/CD, and Scalable Web Solutions**  
