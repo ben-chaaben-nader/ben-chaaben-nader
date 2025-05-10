@@ -28,22 +28,17 @@
 
 ### **Programming Languages & Technologies:**  
 
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="VB.NET" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
-</p>
 
+<p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot_Framework_logo.png" alt="Robot Framework" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Cypress.png" alt="Cypress" width="40"/>
+    <img src="https://seeklogo.com/images/P/playwright-logo-6EC0D4FC88-seeklogo.com.png" alt="Playwright" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Appium.png" alt="Appium" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Postman-logo.png" alt="Postman" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/JMeter.png" alt="JMeter" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/TestNG.png" alt="TestNG" width="40"/>
+</p>
 ---
 
 ### **Automation:**  
