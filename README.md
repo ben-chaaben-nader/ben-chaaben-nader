@@ -44,14 +44,13 @@
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
 </p>
 
-</p>
-
+---
 
 ### **Automation:**  
 
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" alt="Robot Framework" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/robot-2.png" alt="Robot Framework" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/cypress.png" alt="Cypress" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/appium.png" alt="Appium" width="40"/>
@@ -67,7 +66,7 @@
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/tomtom.png" alt="TomTom Maps" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TomTom_logo.svg/1200px-TomTom_logo.svg.png" alt="TomTom Maps" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/mapbox.png" alt="Mapbox" width="40"/>
 </p>
 
@@ -76,7 +75,7 @@
 ### **Blockchain & Crypto:**  
 
 <p align="left">
-    <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/ethereum.png" alt="Ethereum" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/web3.png" alt="Web3.js" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/metamask.png" alt="Metamask" width="40"/>
@@ -88,52 +87,11 @@
 
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/swift.png" alt="SWIFT" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/finance.png" alt="FIX Protocol" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/bloomberg.png" alt="Bloomberg" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/reuters.png" alt="Thomson Reuters" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/forex.png" alt="MetaTrader" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FIX_protocol_logo.png/1200px-FIX_protocol_logo.png" alt="FIX Protocol" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bloomberg_logo.svg/1200px-Bloomberg_logo.svg.png" alt="Bloomberg" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Thomson_Reuters_logo.svg/1200px-Thomson_Reuters_logo.svg.png" alt="Thomson Reuters" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/metatrader.png" alt="MetaTrader" width="40"/>
 </p>
-
----
-
-### **ERP & Business Solutions:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-dynamics-365.png" alt="Microsoft Dynamics 365" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle ERP" width="40"/>
-</p>
-
----
-
-### **Artificial Intelligence & Machine Learning:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
-</p>
-
----
-
-### **Cloud & DevOps Solutions:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Microsoft Azure" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40"/>
-</p>
-
 
 
 ---
