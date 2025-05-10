@@ -28,21 +28,7 @@
 
 ### **Programming Languages & Technologies:**  
 
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="VB.NET" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
-</p>
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40"/> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/> <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt="VB.NET" width="40"/> <img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" width="40"/> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/> </p>
 
 ---
 
