@@ -27,107 +27,86 @@
 ## 💡 Technologies & Tools:
 
 ### **Programming Languages & Technologies:**  
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
----
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
 ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=dotnet&logoColor=white)  
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)  
-### **Automation:**  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" alt="Robot Framework" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/cypress.png" alt="Cypress" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/playwright.png" alt="Playwright" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/appium.png" alt="Appium" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/apache-jmeter.png" alt="JMeter" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/testng.png" alt="TestNG" width="40"/>
-</p>
+---
+
+### **Automation:**  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-00BFFF?logo=robot-framework&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)  
+![Playwright](https://img.shields.io/badge/-Playwright-007ACC?logo=playwright&logoColor=white)  
+![Appium](https://img.shields.io/badge/-Appium-472583?logo=appium&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apache-jmeter&logoColor=white)  
+![TestNG](https://img.shields.io/badge/-TestNG-FF6600?logo=testng&logoColor=white)  
 
 ---
 
 ### **Game & Map Testing:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/tomtom.png" alt="TomTom Maps" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/mapbox.png" alt="Mapbox" width="40"/>
-</p>
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white)  
+![TomTom Maps](https://img.shields.io/badge/-TomTom%20Maps-E03C31?logo=tomtom&logoColor=white)  
+![Mapbox](https://img.shields.io/badge/-Mapbox-4264FB?logo=mapbox&logoColor=white)  
 
 ---
 
 ### **Blockchain & Crypto:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/ios-filled/50/000000/solidity.png" alt="Solidity" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/ethereum.png" alt="Ethereum" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/web3.png" alt="Web3.js" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/metamask.png" alt="Metamask" width="40"/>
-</p>
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)  
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3dotjs&logoColor=white)  
+![Metamask](https://img.shields.io/badge/-Metamask-F6851B?logo=metamask&logoColor=white)  
 
 ---
 
 ### **Finance & Banking:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/swift.png" alt="SWIFT" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/finance.png" alt="FIX Protocol" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/bloomberg.png" alt="Bloomberg" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/reuters.png" alt="Thomson Reuters" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/forex.png" alt="MetaTrader" width="40"/>
-</p>
+![FIX Protocol](https://img.shields.io/badge/-FIX%20Protocol-0072C6?logo=f&logoColor=white)  
+![Bloomberg](https://img.shields.io/badge/-Bloomberg-FF5C00?logo=bloomberg&logoColor=white)  
+![Thomson Reuters](https://img.shields.io/badge/-Thomson%20Reuters-FF8000?logo=thomsonreuters&logoColor=white)  
+![MetaTrader](https://img.shields.io/badge/-MetaTrader-29A745?logo=metatrader&logoColor=white)  
 
 ---
 
 ### **ERP & Business Solutions:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/sap.png" alt="SAP" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-dynamics-365.png" alt="Microsoft Dynamics 365" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle ERP" width="40"/>
-</p>
+![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white)  
+![Microsoft Dynamics 365](https://img.shields.io/badge/-Microsoft%20Dynamics%20365-0078D4?logo=microsoft-dynamics-365&logoColor=white)  
+![Oracle ERP](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)  
 
 ---
 
 ### **Artificial Intelligence & Machine Learning:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>
-</p>
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
 
 ---
 
 ### **Cloud & DevOps Solutions:**  
-
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Microsoft Azure" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40"/>
-</p>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)  
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
 
 
 ---
