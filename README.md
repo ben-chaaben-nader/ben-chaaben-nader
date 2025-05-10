@@ -88,6 +88,11 @@
     <img src="https://img.icons8.com/color/48/000000/metatrader.png" alt="MetaTrader" width="40"/>
 </p>
 
+<p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png" alt="SAP" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Microsoft_Dynamics_Logo.svg/1200px-Microsoft_Dynamics_Logo.svg.png" alt="Microsoft Dynamics 365" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Oracle_logo.svg/1280px-Oracle_logo.svg.png" alt="Oracle ERP" width="40"/>
+</p>
 
 ---
 
