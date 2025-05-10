@@ -39,10 +39,9 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
+---
 ![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=dotnet&logoColor=white)  
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)  
----
-
 ### **Automation:**  
 
 <p align="left">
