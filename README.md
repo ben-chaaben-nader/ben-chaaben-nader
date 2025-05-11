@@ -77,15 +77,10 @@
 
 ## 🌟 GitHub Stats:
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=ben-chaaben-nader&color=blue&cache_seconds=1800)
-
-![Nader's GitHub Stats](https://ben-chaaben-nader.github.io/github-readme-stats/api?username=ben-chaaben-nader&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
-
-![Top Langs](https://ben-chaaben-nader.github.io/github-readme-stats/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical&cache_seconds=1800)
-
-![GitHub Streak](https://ben-chaaben-nader.github.io/github-readme-streak-stats?user=ben-chaaben-nader&theme=radical&cache_seconds=1800)
-
+![Profile Views](https://komarev.com/ghpvc/?username=ben-chaaben-nader&color=blue&cache_seconds=1800) 
+![Nader's GitHub Stats](https://ben-chaaben-nader.github.io/github-readme-stats/api?username=ben-chaaben-nader&show_icons=true&theme=radical&count_private=true&cache_seconds=1800) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical&cache_seconds=1800) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ben-chaaben-nader&theme=radical&cache_seconds=1800)
 
 
 
