@@ -84,9 +84,10 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ben-chaaben-nader&theme=radical&cache_seconds=1800" />
+</p>
+<p align="center">
   <img width="36.5%" src="https://komarev.com/ghpvc/?username=ben-chaaben-nader&color=blue&style=for-the-badge" />
 </p>
-
 
 
 
