@@ -84,8 +84,9 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical&langs_count=10" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical&langs_count=10&hide_border=false" />
 </p>
+
 <p align="center">
   <img width="40%" src="https://komarev.com/ghpvc/?username=ben-chaaben-nader&color=blue&style=for-the-badge" />
 </p>
