@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical&langs_count=10&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-chaaben-nader&layout=compact&theme=radical&langs_count=50&card_width=500" />
 </p>
 
 
