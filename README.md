@@ -70,8 +70,8 @@
 
 ## 📫 How to reach me:
 - ✉️ Email: [chaben.nader@gmail.com](mailto:chaben.nader@gmail.com)  
-- 🔗 LinkedIn: [Nader Ben Chabane](https://www.linkedin.com/in/nader-ben-chaaben-3aa566b7/)  
-- 🌐 Website: [InfinityTech Solutions](https://infinitytech-solutions.com)  
+- 🔗 LinkedIn: [Nader Ben Chaaban](https://www.linkedin.com/in/nader-ben-chaaben-3aa566b7/)  
+ 
 
 ---
 
